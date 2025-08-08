@@ -1,0 +1,35 @@
+:root {
+    --bg-color: #f0f8f5;
+    --text-color: #2e3d2f;
+    --header-bg: #4caf50;
+    --header-text: #ffffff;
+    --nav-bg: #388e3c;
+    --nav-link: #ffffff;
+    --nav-hover: #c8e6c9;
+    --section-bg: #ffffff;
+    --card-bg: #e8f5e9;
+    --card-border: #81c784;
+    --input-bg: #ffffff;
+    --input-border: #a5d6a7;
+    --button-bg: #66bb6a;
+    --button-hover: #43a047;
+    --footer-text: #4e6b50;
+}
+
+.dark-root {
+    --bg-color: #121212;
+    --text-color: #e0f2f1;
+    --header-bg: #1b5e20;
+    --header-text: #ffffff;
+    --nav-bg: #263238;
+    --nav-link: #b2dfdb;
+    --nav-hover: #4db6ac;
+    --section-bg: #1e1e1e;
+    --card-bg: #263238;
+    --card-border: #4db6ac;
+    --input-bg: #37474f;
+    --input-border: #4db6ac;
+    --button-bg: #2e7d32;
+    --button-hover: #1b5e20;
+    --footer-text: #90a4ae;
+}
